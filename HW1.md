@@ -84,3 +84,9 @@ To chek status of a repository, use the command:
 
     git checkout <hash>
 
+Для возвращения на ветку master (main) используйте следующую команду:
+
+    git checkout master
+
+
+## **_THE END_**    
