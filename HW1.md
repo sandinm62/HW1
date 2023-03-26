@@ -42,6 +42,11 @@ To chek status of a repository, use the command:
 
     git commit -am "message"
 
-## 
+## Вывод списка изменний в файле
+
+Для вывода списка изменний в файле введите слудующую команду:
+
+    git log
+    
 ##
 ##
