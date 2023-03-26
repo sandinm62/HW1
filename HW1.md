@@ -64,3 +64,9 @@ To chek status of a repository, use the command:
 
     git log --all --oneline
 
+## Вывод последних изменений после сохранения файла
+
+Для вывода изменений внесённых в файл после сохранения введи команду:
+
+    git diff
+    
