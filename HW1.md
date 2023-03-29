@@ -102,4 +102,7 @@ To chek status of a repository, use the command:
 
     git branch
 
+## Создание новой ветки
+
+
 ## **_THE END_**    
