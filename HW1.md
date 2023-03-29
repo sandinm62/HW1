@@ -120,4 +120,14 @@ To chek status of a repository, use the command:
     git brach <branch_name>
 
 где \<branch_name\> имя ветки которую нужно удалить.
+
+## Принудительное удаление ветор
+
+Для принудительного удаления веток необходимо ааести команду 
+
+git branch -D <branch_name>
+
+где \<branch_name\> имя ветки которую нужно удалить.
+
+
 ## **_THE END_**    
