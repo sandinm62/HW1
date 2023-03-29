@@ -102,4 +102,10 @@ To chek status of a repository, use the command:
 
     git branch
 
+
+Чтобы создать новую ветку нужно ввести команду:
+
+    git branch <branch name>
+где \<branh name\> это имя новой ветки
+ 
 ## **_THE END_**    
