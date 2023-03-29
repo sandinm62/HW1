@@ -92,5 +92,7 @@ To chek status of a repository, use the command:
 
     git checkout master
 
+## Ветвления
 
+Ветвления в Git нужны для того чтобы ...
 ## **_THE END_**    
