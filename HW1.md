@@ -98,5 +98,6 @@ To chek status of a repository, use the command:
 
 ## Просмотр имеющихся веток
 
+Некоторая ошибочная информация
 
 ## **_THE END_**    
