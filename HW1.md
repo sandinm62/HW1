@@ -115,4 +115,9 @@ To chek status of a repository, use the command:
 
 ## Удаление веток
 
+Для удаления веток необходимо ввести команду:
+
+    git brach <branch_name>
+
+где \<branch_name\> имя ветки которую нужно удалить.
 ## **_THE END_**    
