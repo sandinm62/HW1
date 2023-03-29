@@ -86,7 +86,9 @@ To chek status of a repository, use the command:
 
 Для добавления новой ветки событий введите следющую команду:
 
-    git checkout <hash>
+    git checkout <branch_name>
+
+где \<branch_name\> имя новой ветки.
 
 Для возвращения на ветку master (main) используйте следующую команду:
 
@@ -111,8 +113,14 @@ To chek status of a repository, use the command:
  
 ## Объединение веток
   
+Для того чтобы влить изменения из одной ветки в другую нужно ввести команду:
+ 
+    git merge <barnch_name>
 
+где \<branch_name\> имя ветки, из которой будет производиться вливание изменений
 
 ## Удаление веток
+
+ 
 
 ## **_THE END_**    
