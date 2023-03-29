@@ -111,4 +111,8 @@ To chek status of a repository, use the command:
  
 ## Объединение веток
   
+
+
+## Удаление веток
+
 ## **_THE END_**    
