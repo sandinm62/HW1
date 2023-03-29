@@ -95,4 +95,8 @@ To chek status of a repository, use the command:
 ## Ветвления
 
 Ветвления в Git нужны для того чтобы ...
+
+## Просмотр имеющихся веток
+
+
 ## **_THE END_**    
