@@ -109,4 +109,11 @@ To chek status of a repository, use the command:
     git branch <branch name>
 где \<branh name\> это имя новой ветки
  
+
+ Для того чтобы влить изменения из одной ветки в другую нужно ввести команду:
+ 
+    git merge <barnch_name>
+
+где \<branch_name\> имя ветки, из которой будет производиться вливание изменений
+
 ## **_THE END_**    
