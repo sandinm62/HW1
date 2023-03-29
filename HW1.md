@@ -109,4 +109,6 @@ To chek status of a repository, use the command:
     git branch <branch name>
 где \<branh name\> это имя новой ветки
  
+## Объединение веток
+  
 ## **_THE END_**    
