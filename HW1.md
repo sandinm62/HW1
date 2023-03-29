@@ -98,5 +98,8 @@ To chek status of a repository, use the command:
 
 ## Просмотр имеющихся веток
 
+Для просмотра всех имеющихся веток нужно ввести команду:
+
+    git branch
 
 ## **_THE END_**    
