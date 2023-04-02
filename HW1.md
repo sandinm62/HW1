@@ -141,5 +141,6 @@ To chek status of a repository, use the command:
 
 ![Conflict situation](img\conflict.png)
 
+## Удалённые репозиториип
 
 ## **_THE END_**    
