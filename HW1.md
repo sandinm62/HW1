@@ -88,7 +88,7 @@ To chek status of a repository, use the command:
 
 ## Добавление новой ветки
 
-Для добавления новой ветки событий введите следющую команду:
+Для смены ветки введите следющую команду:
 
     git checkout <branch_name>
 
